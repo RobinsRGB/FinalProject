@@ -1,2 +1,2 @@
 # FinalProject
-Programmēšanas  kursu noslēguma darbs
+Programmēšanas kursa noslēguma darbs
